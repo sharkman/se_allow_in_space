@@ -1,0 +1,6 @@
+se_allow_in_space/changelog.txt
+se_allow_in_space/data-updates.lua
+se_allow_in_space/info.json
+se_allow_in_space/LICENSE
+se_allow_in_space/README.md
+se_allow_in_space/thumbnail.png
