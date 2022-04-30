@@ -1,0 +1,15 @@
+{
+	"name": "se_allow_in_space",
+	"version": "0.0.1",
+	"title": "se_allow_in_space = true for some containters",
+	"author": "Sharkman",
+	"dependencies": [
+		"base >= 1.1.0",
+		"space-exploration >= 0.5.114",
+		"? deep-storage-unit >= 1.2.14",
+		"? fluid-memory-storage >= 1.3.15",
+		"? logistic-memory-units >= 1.0.8"
+	],
+	"description": "Compatibility patch for Space Exploration (by Earendel https://mods.factorio.com/mod/space-exploration)\nAllows some entities from other mods to be built in space.\nCurrently allows Memory Storage (by notnotmelon https://mods.factorio.com/mod/deep-storage-unit) containters (and all of it's sub-mods) to be build in space.",
+	"factorio_version": "1.1"
+}

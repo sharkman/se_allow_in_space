@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 30. 04. 2022
+  Info:
+    - Initial version.
+    - Provided compatibility with Memory Storage (by notnotmelon https://mods.factorio.com/mod/deep-storage-unit) containters (and all of it's sub-mods)
