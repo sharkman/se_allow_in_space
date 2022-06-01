@@ -24,3 +24,8 @@ end
 if data.raw["logistic-container"]["buffer-memory-unit"] then
    data.raw["logistic-container"]["buffer-memory-unit"].se_allow_in_space = true
 end
+
+-- improved combinator
+if data.raw["container"]["improved-combinator"] then
+   data.raw["container"]["improved-combinator"].se_allow_in_space = true
+end

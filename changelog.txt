@@ -1,6 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2022-06-01
+  Changes:
+    - Changed changelog data format to ISO (ISO 8601).
+
+  Compatibility:
+    - Provided compatibility with Improved Combinator (by SomeUserName785 https://mods.factorio.com/mod/ImprovedCombinator)
+
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: 30. 04. 2022
+Date: 2022-04-30
   Info:
     - Initial version.
+
+  Compatibility:
     - Provided compatibility with Memory Storage (by notnotmelon https://mods.factorio.com/mod/deep-storage-unit) containters (and all of it's sub-mods)
